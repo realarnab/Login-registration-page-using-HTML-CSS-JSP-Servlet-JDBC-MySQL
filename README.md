@@ -1,5 +1,5 @@
 This project is a simple web application that includes login and registration functionality. 
-It is built using HTML, CSS, JSP to built the frontend and in the backend using advance java concept - Servlet, JDBC and in the databse MySQL.
+It is built using HTML, CSS, JSP in the frontend and in the backend using advance java concept - Servlet, JDBC and MySQL databse.
 
 #Home Page
 ![Screenshot (113)](https://github.com/realarnab/Login-registration-page-using-HTML-CSS-JSP-Servlet-JDBC-MySQL/assets/118125247/7cf22933-e7b3-41f6-8c58-686a6248ecbf)
